@@ -23,9 +23,14 @@ a) data backup is achieved by importing the data from the original computer to t
 
 # softwares used
 OS: Qubes and Windows 10
+
 AV: Sentinel One, Malwarebytes
+
 Browser: Librewolf, Tor Browser
+
 Disk Management: Bleachbit
+
 Encryption: Veracrypt and Hat.sh
+
 Firewall: Simplewall(Windows 10)
 
