@@ -16,8 +16,16 @@ e) librewolf as web browser
 
 f) policy that this pc will almost never use the internet except for when setting it up
 
-g) only ethernet for internet
+g) no installations of anything except the necessary softwar
 
 # mechanisms
 a) data backup is achieved by importing the data from the original computer to the data storage computer using a 512gb usb stick. after the backup is finished, the usb will be wiped
+
+# softwares used
+OS: Qubes and Windows 10
+AV: Sentinel One, Malwarebytes
+Browser: Librewolf, Tor Browser
+Disk Management: Bleachbit
+Encryption: Veracrypt and Hat.sh
+Firewall: Simplewall(Windows 10)
 
